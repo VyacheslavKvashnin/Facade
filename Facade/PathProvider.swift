@@ -1,8 +1,7 @@
 //
 //  PathProvider.swift
-//  Facade
 //
-//  Created by Вячеслав Квашнин on 03.08.2022.
+//  Created by Александр Михайлов on 03.08.2022.
 //
 
 import Foundation
